@@ -1,2 +1,2 @@
-# snaha_o_DU_ale_moc_lagy
+# CV1
 Created with CodeSandbox
